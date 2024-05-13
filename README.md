@@ -1,2 +1,3 @@
 # Abalone-Age-Prediction
-An enhanced machine learning approach to predict the age of abalone.
+## Overview
+This repository leverages advanced machine learning techniques to predict the age of abalone from physical measurements, using both original and derived datasets. It explores the integration of traditional and novel methods to enhance predictive accuracy.
